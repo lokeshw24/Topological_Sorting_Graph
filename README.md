@@ -1,7 +1,7 @@
 ##What does the code do ?
-Input : Directed Acyclic Graph, DAG
-Output : Topological Sorted Graph
-Logic : Depth-First-Search Algorithm
+* Input : Directed Acyclic Graph, DAG
+* Output : Topological Sorted Graph
+* Logic : Depth-First-Search Algorithm
 
 ##TO-DO : 
 * Re-write using OOP concepts.
